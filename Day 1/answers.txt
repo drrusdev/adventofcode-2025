@@ -1,0 +1,7 @@
+task 1:
+cur_value: 68
+total_hits_zero 1036
+
+task 2:
+cur_value: 68
+total_hits_zero 6228
